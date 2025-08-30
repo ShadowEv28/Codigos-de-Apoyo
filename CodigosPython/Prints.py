@@ -1,4 +1,4 @@
-//Print es un comando bastante simple realmente, aunque cuenta con varias opciones interesantes.
+#Print es un comando bastante simple realmente, aunque cuenta con varias opciones interesantes.
 print("Hola Mundo") //Este es un print simple que ya todo deben conocer, es facil de entender y bastante utilizado.
 print(f"Hola") //Agregar una f antes de las comillas permite poder utilizar variables de forma mas simple y rapida.
 palabra = "Mundo"
