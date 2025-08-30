@@ -24,3 +24,4 @@ strbool = str(Variable_Bool) #Aqui convertimos un bool a String
 strint = str(Variable_Int) #Aqui convertimos un Int a String
 strfloat = str(Variable_Float) #Aqui convertimos un Float a String
 print(strbool + strfloat + strint) #Como ven aqui los valores se juntan unos a otros ya que todos son String ahora, si hubieramos intentado esto antes los valores simplemente se hubieran sumado y daria 21.2
+Variable_List = []
