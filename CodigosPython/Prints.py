@@ -15,4 +15,4 @@ print("10) Hola Mundo", end=" :)") #El comando end sirve para cambiar lo que ser
 print("Pueden ver que la linea no salto")
 print("11) Hola Mundo", sep="-") #El comando sep sirve para cambiar el separador entre varios elementos dentro de un print, en este caso en vez de un espacio, utiliza un guion.
 print("hola mun")
-print("a")
+print("e")
