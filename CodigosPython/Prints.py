@@ -13,6 +13,5 @@ print("8) Hola \'Mundo\'") #El comando \' sirve para poder utilizar comillas sim
 print("9) Hola \\Mundo") #El comando \\ sirve para poder utilizar \ dentro del print.
 print("10) Hola Mundo", end=" :)") #El comando end sirve para cambiar lo que seria el salto de linea, en este caso en vez de saltar a la siguiente linea, esta tendra una carita feliz y continuara en la misma linea.
 print("Pueden ver que la linea no salto")
-print("11) Hola Mundo", sep="-") #El comando sep sirve para cambiar el separador entre varios elementos dentro de un print, en este caso en vez de un espacio, utiliza un guion.
-print("hola mun")
-print("e")
+print("11) Hola","Mundo", sep="-") #El comando sep sirve para separar los elementos dentro del print.
+#Por ahora estos son comnados de pythons para print que son utiles y faciles.
