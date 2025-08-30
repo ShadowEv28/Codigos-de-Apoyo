@@ -13,4 +13,4 @@ print("8) Hola \'Mundo\'") #El comando \' sirve para poder utilizar comillas sim
 print("9) Hola \\Mundo") #El comando \\ sirve para poder utilizar \ dentro del print.
 print("10) Hola Mundo", end=" :)") #El comando end sirve para cambiar lo que seria el salto de linea, en este caso en vez de saltar a la siguiente linea, esta tendra una carita feliz y continuara en la misma linea.
 print("Pueden ver que la linea no salto")
-print("11) Hola", "Mundo", sep="-") #El comando sep sirve para separar elementos que esten separado de las comillas.
+print("11) Hola", "Mundo", sep="-") #El comando sep sirve para separar elementos que esten separado de las comillas.a
